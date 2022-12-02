@@ -14,6 +14,7 @@ public class PrgEmpleado {
     public static void main(String[] args) {
         PrgEmpleado x = new PrgEmpleado();
         x.menu();
+        System.out.println("Este es un mensaje nuevo");
     }
 
     public void menu() {
